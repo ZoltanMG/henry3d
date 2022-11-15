@@ -1,0 +1,33 @@
+#header {
+    background-color: #1f1f1f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0px 10%;
+    border-bottom:1px solid #4e4e4e;
+}
+
+.navbar {
+    width: 40%;
+    min-width: 300px;
+    max-width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pathSelected {
+    color: white;
+    text-decoration: none;
+}
+
+.notSelected {
+    color: grey;
+    text-decoration: none;
+    transition: 280ms linear;
+}
+
+.notSelected:hover {
+    color: white;
+    transition: 280ms linear;
+}
