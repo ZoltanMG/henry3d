@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/henry3d/static/css/main.69f57b99.css",
-    "main.js": "/henry3d/static/js/main.d45770e3.js",
+    "main.js": "/henry3d/static/js/main.0fc1ed27.js",
     "index.html": "/henry3d/index.html",
     "main.69f57b99.css.map": "/henry3d/static/css/main.69f57b99.css.map",
-    "main.d45770e3.js.map": "/henry3d/static/js/main.d45770e3.js.map"
+    "main.0fc1ed27.js.map": "/henry3d/static/js/main.0fc1ed27.js.map"
   },
   "entrypoints": [
     "static/css/main.69f57b99.css",
-    "static/js/main.d45770e3.js"
+    "static/js/main.0fc1ed27.js"
   ]
 }
