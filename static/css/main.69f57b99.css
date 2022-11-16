@@ -1,2 +1,0 @@
-*{margin:0;padding:0}body{background-color:#272727;box-sizing:border-box;font-family:sans-serif}#header{align-items:center;background-color:#1f1f1f;border-bottom:1px solid #4e4e4e;height:70px;padding:0 10%}#header,.navbar{display:flex;justify-content:space-between}.navbar{max-width:400px;min-width:300px;width:40%}.pathSelected{color:#fff;text-decoration:none}.notSelected{color:grey;text-decoration:none;transition:.28s linear}.notSelected:hover{color:#fff;transition:.28s linear}
-/*# sourceMappingURL=main.69f57b99.css.map*/
